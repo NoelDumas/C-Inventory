@@ -1,3 +1,6 @@
+/* Home Inventory System, Noel Dumas, August 2017
+	This program lets the user create and inventory list with pars, add on-hands to output their shopping list with the number of each item to be purchased.  Always have what you need!  
+*/
 #include <iostream>
 #include <string>
 #include <fstream>
