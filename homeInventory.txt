@@ -1,0 +1,24 @@
+flour, white, 5lbs#2
+sugar, white, 5lbs#1
+vanilla extract#2
+sugar, brown, 1lb#2
+eggs, dozen#2
+salt#1
+peanut butter#3
+milk, gal#4
+bread#3
+jelly jam#2
+butter, 1lb#4
+bread#2
+cat food#2
+pickles#1
+oranges#8
+peaches#10
+baking soda#2
+good bacon#2
+chocolate milk mix, big can#1
+chocolate chips#2
+baking powder#2
+cocoa powder#1
+chili powder#1
+cumin powder#2
